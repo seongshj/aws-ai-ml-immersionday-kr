@@ -1,6 +1,6 @@
 # Amazon SageMaker Hands-on 노트북 한글 버전
 
-## 본 문서는 Amazon SageMaker의 Hands-on 노트북의 한굴어 버전입니다. 
+## 본 문서는 Amazon SageMaker의 Hands-on 노트북의 한글 버전입니다. 
 
 ## 노트북:
 - 1. [리뷰 데이터를 통해 제품 성공 예측하기](video-game-sales-xgboost.ipynb)
